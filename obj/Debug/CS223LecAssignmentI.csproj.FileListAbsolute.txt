@@ -1,0 +1,11 @@
+C:\Users\eyob9\Documents\VS Projects\CS223LecAssignmentI\bin\Debug\CS223LecAssignmentI.exe.config
+C:\Users\eyob9\Documents\VS Projects\CS223LecAssignmentI\bin\Debug\CS223LecAssignmentI.exe
+C:\Users\eyob9\Documents\VS Projects\CS223LecAssignmentI\bin\Debug\CS223LecAssignmentI.pdb
+C:\Users\eyob9\Documents\VS Projects\CS223LecAssignmentI\obj\Debug\CS223LecAssignmentI.csproj.AssemblyReference.cache
+C:\Users\eyob9\Documents\VS Projects\CS223LecAssignmentI\obj\Debug\CS223LecAssignmentI.csproj.SuggestedBindingRedirects.cache
+C:\Users\eyob9\Documents\VS Projects\CS223LecAssignmentI\obj\Debug\CS223LecAssignmentI.Form1.resources
+C:\Users\eyob9\Documents\VS Projects\CS223LecAssignmentI\obj\Debug\CS223LecAssignmentI.Properties.Resources.resources
+C:\Users\eyob9\Documents\VS Projects\CS223LecAssignmentI\obj\Debug\CS223LecAssignmentI.csproj.GenerateResource.cache
+C:\Users\eyob9\Documents\VS Projects\CS223LecAssignmentI\obj\Debug\CS223LecAssignmentI.csproj.CoreCompileInputs.cache
+C:\Users\eyob9\Documents\VS Projects\CS223LecAssignmentI\obj\Debug\CS223LecAssignmentI.exe
+C:\Users\eyob9\Documents\VS Projects\CS223LecAssignmentI\obj\Debug\CS223LecAssignmentI.pdb
